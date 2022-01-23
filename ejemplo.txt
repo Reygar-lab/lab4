@@ -2,4 +2,4 @@ Este es un fichero de ejemplo
 
 Estas tres primeras líneas estaban escritas inicialmente.
 
-Este es la copia  local.
+Este es la copia unión del repositorio local y de GitHub.
